@@ -55,7 +55,6 @@ final_hash
 
 end
 
-    
 pigeon_helper(pigeon_data)
 end 
 end
