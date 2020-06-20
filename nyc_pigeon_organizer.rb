@@ -51,7 +51,7 @@ def pigeon_helper(data)
     end
 
   end
-  p final_hash
+final_hash
 
 end
 
